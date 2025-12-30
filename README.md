@@ -59,10 +59,10 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://ransharirodrigo.github.io/portfolio">
+  <a href="[https://ransharirodrigo.github.io/portfolio](https://ransharirodrigo.github.io/Developer-Portfolio)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/ranshari-rodrigo">
+  <a href="www.linkedin.com/in/tharushirodrigo02">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ransharirodrigo@gmail.com">
